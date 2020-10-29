@@ -1,0 +1,6 @@
+framework module Pods_TestTaskEvotor {
+  umbrella header "Pods-TestTaskEvotor-umbrella.h"
+
+  export *
+  module * { export * }
+}
